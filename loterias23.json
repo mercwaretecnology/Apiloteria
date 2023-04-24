@@ -1,0 +1,204 @@
+{
+  "listResults": {
+    "lottery": {
+      "recordCount": 32,
+      "scrapedUrls": [
+        "https://www.conectate.com.do/loterias/"
+      ]
+    }
+  },
+  "lottery": [
+    {
+      "name": "Juega + Pega +",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/juega-mas-pega-mas-loteria-nacional.png",
+      "date": "13-02-2023",
+      "result": "10 16 25 23 16"
+    },
+    {
+      "name": "Gana Más",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/gana-mas-loteria-nacional.png",
+      "date": "13-02-2023",
+      "result": "08 82 81"
+    },
+    {
+      "name": "Lotería Nacional",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/loteria-nacional.png",
+      "date": "12-02-2023",
+      "result": "55 15 06"
+    },
+    {
+      "name": "Pega 3 Más",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/pega-3-mas-leidsa.png",
+      "date": "12-02-2023",
+      "result": "37 23 08"
+    },
+    {
+      "name": "Loto Pool",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/loto-pool-leidsa.png",
+      "date": "12-02-2023",
+      "result": "01 09 15 20 25"
+    },
+    {
+      "name": "Super Kino TV",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/super-kino-leidsa.png",
+      "date": "12-02-2023",
+      "result": "02 03 05 06 07 12 14 15 18 27 30 35 36 41 54 56 69 72 79 80"
+    },
+    {
+      "name": "Quiniela Leidsa",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/quiniela-leidsa.png",
+      "date": "12-02-2023",
+      "result": "57 30 51"
+    },
+    {
+      "name": "Loto - Loto Más",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/loto-leidsa.png",
+      "date": "11-02-2023",
+      "result": "06 12 14 28 31 37 9 2"
+    },
+    {
+      "name": "Quiniela Real",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/quiniela-real.png",
+      "date": "13-02-2023",
+      "result": "10 66 81"
+    },
+    {
+      "name": "Loto Pool",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/loto-pool-loteria-real.png",
+      "date": "13-02-2023",
+      "result": "45 15 11 42"
+    },
+    {
+      "name": "Loto Real",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/loto-real.png",
+      "date": "10-02-2023",
+      "result": "01 20 25 29 30 35"
+    },
+    {
+      "name": "Quiniela Loteka",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/quiniela-loteka.png",
+      "date": "12-02-2023",
+      "result": "58 20 50"
+    },
+    {
+      "name": "Mega Chances",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/mega-chances-loteka.png",
+      "date": "12-02-2023",
+      "result": "17 77 99 34 38"
+    },
+    {
+      "name": "New York 3:30",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/loteria-new-york-tarde.png",
+      "date": "13-02-2023",
+      "result": "07 91 92"
+    },
+    {
+      "name": "New York 11:30",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/loteria-new-york-noche.png",
+      "date": "12-02-2023",
+      "result": "94 14 23"
+    },
+    {
+      "name": "Florida Día",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/loteria-florida-dia.png",
+      "date": "13-02-2023",
+      "result": "85 42 37"
+    },
+    {
+      "name": "Florida Noche",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/loteria-florida-noche.png",
+      "date": "12-02-2023",
+      "result": "78 22 88"
+    },
+    {
+      "name": "Mega Millions",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/mega-millions.png",
+      "date": "10-02-2023",
+      "result": "20 29 30 52 58 19 2x"
+    },
+    {
+      "name": "PowerBall",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/powerball.png",
+      "date": "11-02-2023",
+      "result": "10 23 30 54 65 11 4x"
+    },
+    {
+      "name": "Cash 4 Life",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/d946af56bd057d0211f55d62e42a55de.png",
+      "date": "12-02-2023",
+      "result": "10 12 34 44 53 01"
+    },
+    {
+      "name": "La Primera",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/la-primera.png",
+      "date": "13-02-2023",
+      "result": "85 91 45"
+    },
+    {
+      "name": "Primera Noche",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/la-primera-noche.png",
+      "date": "12-02-2023",
+      "result": "73 54 02"
+    },
+    {
+      "name": "La Suerte MD",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/la-suerte-dominicana.png",
+      "date": "13-02-2023",
+      "result": "09 60 83"
+    },
+    {
+      "name": "La Suerte 6PM",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/be680ac8ee02d99836a6f0093fd182e9.png",
+      "date": "13-02-2023",
+      "result": "21 47 65"
+    },
+    {
+      "name": "Quiniela",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/quiniela-lotedom.png",
+      "date": "13-02-2023",
+      "result": "95 76 37"
+    },
+    {
+      "name": "El Quemaito Mayor",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/el-quemaito-mayor-lotedom.png",
+      "date": "13-02-2023",
+      "result": "66"
+    },
+    {
+      "name": "Quiniela 12:30",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/quiniela-king-lottery-dia.png",
+      "date": "13-02-2023",
+      "result": "32 84 17"
+    },
+    {
+      "name": "Quiniela 7:30",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/quiniela-king-lottery-noche.png",
+      "date": "12-02-2023",
+      "result": "12 97 79"
+    },
+    {
+      "name": "Anguila 10:00 AM",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/anguila-10-am.png",
+      "date": "26-01-2023",
+      "result": "87 52 35"
+    },
+    {
+      "name": "Anguila 1:00 PM",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/quiniela-12-pm.png",
+      "date": "26-01-2023",
+      "result": "36 72 02"
+    },
+    {
+      "name": "Anguila 6:00 PM",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/quiniela-anguila-5pm.png",
+      "date": "26-01-2023",
+      "result": "12 20 90"
+    },
+    {
+      "name": "Anguila 9:00 PM",
+      "img": "https://cdn-lottery.kiskoo.com/loterias-dominicanas/quiniela-9-pm.png",
+      "date": "25-01-2023",
+      "result": "25 30 20"
+    }
+  ]
+}
